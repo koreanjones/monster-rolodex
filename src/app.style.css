@@ -1,0 +1,19 @@
+.App{
+    background: linear-gradient(
+        to left,
+        rgb(187, 57, 148)0%,
+        rgb(36, 208, 231)100%
+    );
+}
+h1{
+    font-family: 'Bigelow Rules';
+    font-size: 72px;
+    color: powderblue
+
+}
+.searchbar{
+    margin-bottom: 2%;
+    height: 40px;
+    text-align: center;
+    font-size: 24px
+}
